@@ -1,0 +1,16 @@
+body {
+	background-color:#33CCFF;
+}
+.custom-center {
+	padding: 0px 15px;
+	text-align: center;
+}
+
+.white, .white a {
+  color: #fff;
+}
+
+.tleft {
+  text-align: left;
+  background-color:#F3F4EE;
+}
